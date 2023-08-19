@@ -1,6 +1,6 @@
-[<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-
-<h3 align="center">Hey there, I'm <a href="https://github.com/UmarFarooq9006">Umar Farooq</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://media.giphy.com/media/4p1JhLCYEOEJa/giphy.gif" width="28"/></h3>
+<h1 align="center">Hi 👋, I'm Umar Farooq <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
+<img align='right' src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm52a3NkOHEyZ3ZnMGZ1bHo4c2QweWYxa2lsd2xpOWZ1N3o2ams3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yX8X517TiuMwuO2tdQ/giphy.gif" width="230">
+<h3 align="center"><em>A passionate Flutter App Developer from Pakistan</em></h3>
 
 <p align="center">
   <a href="https://www.youtube.com/@verticalsols"><img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?color=red&label=Subscribe&style=for-the-badge"/></a> 
@@ -22,7 +22,7 @@
 
 <p align="center">
   <a href="[![GitHub Streak](https://streak-stats.demolab.com/?user=UmarFarooq9006)](https://git.io/streak-stats)">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1#version3"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=UmarFarooq9006#version3"/>
   </a>
 </p>
 
@@ -31,10 +31,10 @@
 ## 🙋‍♂️ Connect with me:
 
 <p align="left">
-  <a href="https://www.youtube.com/@verticalsols"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <!--<a href="https://www.linkedin.com/in/jonah-lawrence/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>-->
-  <a href="https://twitter.com/HaiderA96614619"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://twitter.com/HaiderA96614619"><img alt="Facebook" title="Facebook" src="https://img.shields.io/badge/Facebook-Connect-brightgreen?style=for-the-badge&labelColor=black&logo=facebook"/></a>
+  <!-- <a href="https://www.youtube.com/@verticalsols"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a> -->
+    <a href="https://wa.me/+923166506585"><img alt="whatsapp" title="whatsapp" height="30px" width="30px" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo-whatsapp-256.png"/></a>
+  <a href="https://www.linkedin.com/in/umar-farooq490/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.facebook.com/umarfarooq490/"><img alt="Facebook" title="Facebook" src="https://img.shields.io/badge/Facebook-Connect-brightgreen?style=for-the-badge&labelColor=black&logo=facebook"/></a>
 </p>
 
 ## 👨‍💻 Languages and Tools:
@@ -50,9 +50,6 @@
             </td>
             <td><a href="#"><img alt="CSS3" title="CSS3" height="28px"
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
-            </td>
-            <td><a href="#"><img alt="PHP" title="PHP" height="28px"
-                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" /></a>
             </td>
             <td><a href="#"><img alt="Python" title="Python" height="28px"
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></a>
@@ -70,8 +67,6 @@
             </td>
             <td><a href="#"><img alt="Flutter" title="Flutter" height="28px"
                         src="https://img.icons8.com/color/48/000000/flutter.png" /></a></td>
-                        <td><a href="#"><img alt="FlutterFlow" title="FlutterFlow" height="28px"
-                        src="https://images.saasworthy.com/tr:w-178,h-0/flutterflow_13440_logo_1622199089_bcd4a.jpg" /></a></td>
         </tr>
         <tr>
             <td><a href="#"><img alt="NodeJS" title="NodeJS" height="28px"
@@ -98,8 +93,6 @@
                         src="https://i.imgur.com/6nJGNMN.png" /></a></td>
             <td><a href="#"><img alt="Heroku" title="Heroku" height="28px"
                         src="https://img.icons8.com/color/48/000000/heroku.png" /></a></td>
-            <td><a href="https://brave.com/eyl243"><img alt="Brave" title="Brave" height="28px"
-                        src="https://i.imgur.com/UfBWFbP.png" /></a></td>
         </tr>
     </tbody>
 </table>
@@ -112,13 +105,13 @@
 <details>
   <summary>📊 GitHub Profile Stats</summary>
   <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Umar Farooq's Github Stats" src="https://github-readme-stats.vercel.app/api?username=UmarFarooq9006&show_icons=true&count_private=true&hide=" /></a>
+  <a href="https://github.com/umarfarooq9006/github-readme-stats"><img alt="Umar Farooq's Github Stats" src="https://github-readme-stats.vercel.app/api?username=UmarFarooq9006&show_icons=true&count_private=true&hide=" /></a>
 </details>
 
 <details> 
   <summary>💻 Most used languages</summary>
   <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Umar Farooq's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmarFarooq9006&langs_count=10&layout=compact#" /></a>
+  <a href="https://github.com/umarfarooq9006/github-readme-stats"><img alt="Umar Farooq's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmarFarooq9006&langs_count=10&layout=compact#" /></a>
   <br/>
   <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
 </details>
@@ -127,4 +120,4 @@
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 
 -----
-Credits: [Umar Farooq](https://github.com/UmarFarooq9006)](https://github.com/UmarFarooq9006)https://github.com/UmarFarooq9006
+Credits: [Umar Farooq](https://github.com/UmarFarooq9006)
