@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+[<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h3 align="center">Hey there, I'm <a href="https://github.com/UmarFarooq9006">Umar Farooq</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://media.giphy.com/media/4p1JhLCYEOEJa/giphy.gif" width="28"/></h3>
 
@@ -127,4 +127,4 @@
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 
 -----
-Credits: [Umar Farooq](https://github.com/UmarFarooq9006)
+Credits: [Umar Farooq](https://github.com/UmarFarooq9006)](https://github.com/UmarFarooq9006)https://github.com/UmarFarooq9006
