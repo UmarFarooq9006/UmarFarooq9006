@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Umar Farooq <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 <img align='right' src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm52a3NkOHEyZ3ZnMGZ1bHo4c2QweWYxa2lsd2xpOWZ1N3o2ams3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yX8X517TiuMwuO2tdQ/giphy.gif" width="230">
-<h3 align="center"><em>A passionate Flutter App Developer from Pakistan</em></h3>
+<h3 align="center"><em>A passionate Full Stack Developer from Pakistan</em></h3>
 
 <p align="center">
   <a href="https://www.youtube.com/@verticalsols"><img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?color=red&label=Subscribe&style=for-the-badge"/></a> 
